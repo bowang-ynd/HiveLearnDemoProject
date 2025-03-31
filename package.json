@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.1",
+    "@types/node": "^22.13.14",
+    "@types/react-router-dom": "^5.3.3",
+    "firebase": "^11.5.0",
+    "react-router-dom": "^7.4.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.17"
+  }
+}
